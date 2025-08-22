@@ -11,7 +11,7 @@ import RenoCalculators from "./components/pages/projects/RenoCalculators";
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename="import.meta.env.BASE_URL">
         <Navbar />
         <Routes>
           <Route path="" element={<Home />} />
