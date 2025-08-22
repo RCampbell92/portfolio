@@ -15,7 +15,7 @@ const Skills = () => {
             <li>Django</li>
           </ul>
         </div>
-        <img src="/skills.png" className="img-skills"></img>
+        <img src="./skills.png" className="img-skills"></img>
       </div>
     </div>
   );

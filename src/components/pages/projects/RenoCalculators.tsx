@@ -10,7 +10,7 @@ const RenoCalculators = () => {
           and how much it costs. It automatically gets prices from websites
           daily, such as Bunnings and Mitre 10.
         </p>
-        <img src="renocalculators-screenshot.png"></img>
+        <img src="./renocalculators-screenshot.png"></img>
       </div>
       <h1>Features</h1>
       <p className="info">

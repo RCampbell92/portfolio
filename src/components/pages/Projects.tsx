@@ -14,7 +14,7 @@ const Projects = () => {
             and how much it costs. It automatically gets prices from websites
             daily, such as Bunnings and Mitre 10.
           </p>
-          <img src="/renocalculators-screenshot.png" width={600}></img>
+          <img src="./renocalculators-screenshot.png" width={600}></img>
         </div>
       </div>
 
@@ -27,7 +27,7 @@ const Projects = () => {
             can select a size, cone angle and whether or not it needs a safety
             ladder, and you'll get a price in return.
           </p>
-          <img src="/nhill-silos-screenshot.png" width={600}></img>
+          <img src="./nhill-silos-screenshot.png" width={600}></img>
         </div>
       </div>
 
@@ -40,9 +40,9 @@ const Projects = () => {
             your train.
           </p>
           <div>
-            <img src="/wonky-train1.png" width={600}></img>
-            <img src="/wonky-train2.png" width={600}></img>
-            <img src="/wonky-train3.png" width={600}></img>
+            <img src="./wonky-train1.png" width={600}></img>
+            <img src="./wonky-train2.png" width={600}></img>
+            <img src="./wonky-train3.png" width={600}></img>
           </div>
         </div>
       </div>
