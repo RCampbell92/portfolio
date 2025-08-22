@@ -11,7 +11,7 @@ const NavDropdownButton = ({ children, onClick }: Props) => {
       <div>{children} ⌄</div>
       <ul className="dd-menu">
         <li>
-          <a href="/renocalculators">Renovation Calculators</a>
+          <a href="./renocalculators">Renovation Calculators</a>
         </li>
         <li>
           <a href="#">Nhill Silos</a>

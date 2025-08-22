@@ -8,7 +8,7 @@ const Home = () => {
         <Title>
           Hi, I'm <span className="name">Rhys Campbell</span>
         </Title>
-        <img src="./portrait.png"></img>
+        <img src="./portrait.png" alt="Portrait"></img>
       </div>
       <p className="intro">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum
